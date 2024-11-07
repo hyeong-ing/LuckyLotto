@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'HakgyoansimDunggeunmisoTTF-B';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-B.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    font-family: 'HakgyoansimDunggeunmisoTTF-B';
+}
+
+
+.first {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.second {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.third {
+    margin-top: 130px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.fourth {
+    margin-top: 310px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+
+.center {
+    text-align: center;
+}
+
+.btn {
+    background-color: #AC72E5;
+    color: white;
+    border: none;
+    border-radius:20px;
+    width:200px;
+    height:60px;
+    font-size:40px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'HakgyoansimDunggeunmisoTTF-B';
+}
+
+.circle-red {
+    display:inline-block;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#F5A9A9;
+    text-align:center;
+}
+
+.circle-orange {
+    display:inline-block;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#F79F81;
+    text-align:center;
+}
+
+.circle-yellow {
+    display:inline-block;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#F6E074;
+    text-align:center;
+}
+
+.circle-green {
+    display:inline-block;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#BEF781;
+    text-align:center;
+}
+
+.circle-blue {
+    display:inline-block;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#A9E2F3;
+    text-align:center;
+}
+
+.circle-darkblue {
+    display:inline-block;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#A9A9F5;
+    text-align:center;
+}
+
+.lucky {
+    display:inline-block;
+}
+
+
+
+
