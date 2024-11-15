@@ -1,9 +1,42 @@
-@font-face {
-    font-family: 'HakgyoansimDunggeunmisoTTF-B';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-B.woff2') format('woff2');
-    font-weight: 700;
-    font-style: normal;
+.write {
+    height:30px;
+    width:30px;
+    background:white;
+    border-radius:30px;
+    padding:10px;
+    border:2px
 }
+
+.save {
+    background-color: #AC72E5;
+    color:white;
+    width:10px;
+    height:10px;
+    border:none;
+    font-size:16px;
+}
+
+
+.btn {
+    background-color: #AC72E5;
+    color: white;
+    border: none;
+    border-radius:20px;
+    width:200px;
+    height:60px;
+    font-size:40px;
+    margin-left: 10px;
+    margin-right:8px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'HakgyoansimDunggeunmisoTTF-B';
+}
+
+.image {
+    width:40px;
+    height:40px;
+}
+
 
 body {
     font-family: 'HakgyoansimDunggeunmisoTTF-B';
@@ -11,6 +44,9 @@ body {
 
 
 .first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-top: 70px;
     margin-bottom: 70px;
     margin-left: 50px;
@@ -29,6 +65,9 @@ body {
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
 }
 
 .fourth {
@@ -36,25 +75,14 @@ body {
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
-
+    justify-content: center;
+    align-items: center;
+    display:flex;
 }
 
 
 .center {
     text-align: center;
-}
-
-.btn {
-    background-color: #AC72E5;
-    color: white;
-    border: none;
-    border-radius:20px;
-    width:200px;
-    height:60px;
-    font-size:40px;
-    text-align: center;
-    cursor: pointer;
-    font-family: 'HakgyoansimDunggeunmisoTTF-B';
 }
 
 .circle-red {
@@ -111,10 +139,11 @@ body {
     text-align:center;
 }
 
-.lucky {
-    display:inline-block;
+
+
+@font-face {
+    font-family: 'HakgyoansimDunggeunmisoTTF-B';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-B.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
 }
-
-
-
-
