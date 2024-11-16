@@ -1,21 +1,3 @@
-.write {
-    height:30px;
-    width:30px;
-    background:white;
-    border-radius:30px;
-    padding:10px;
-    border:2px
-}
-
-.save {
-    background-color: #AC72E5;
-    color:white;
-    width:10px;
-    height:10px;
-    border:none;
-    font-size:16px;
-}
-
 
 .btn {
     background-color: #AC72E5;

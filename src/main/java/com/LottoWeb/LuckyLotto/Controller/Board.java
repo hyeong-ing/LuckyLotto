@@ -11,4 +11,9 @@ public class Board {
         return "board";
     }
 
+   @GetMapping("/save")
+    public String saveComment() {
+
+    }
+
 }
