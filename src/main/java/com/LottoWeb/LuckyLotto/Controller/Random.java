@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import java.util.*;
 
 @Controller
-public class Random1 {
+public class Random {
 
-    Random rd = new Random();
+    java.util.Random rd = new java.util.Random();
 
     @GetMapping("/")
     public String firstPage() {
