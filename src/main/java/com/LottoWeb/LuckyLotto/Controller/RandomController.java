@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import java.util.*;
 
 @Controller
-public class Random {
+public class RandomController {
 
     java.util.Random rd = new java.util.Random();
 
