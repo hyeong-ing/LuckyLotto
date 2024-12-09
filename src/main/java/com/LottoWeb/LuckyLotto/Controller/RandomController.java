@@ -4,6 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 
 import java.util.*;
 
@@ -16,6 +17,8 @@ public class RandomController {
     public String firstPage() {
         return "button";
     }
+
+
 
     @GetMapping("/Random1")
     public String random1(Model model) {
@@ -44,7 +47,9 @@ public class RandomController {
         return "button1";
     }
 
-    @PostMapping("/Random1")
+
+
+    @PutMapping("/Random1")
     public String updateRandom(Model model) {
 
         Set<Integer> lottoSet = new TreeSet<>();

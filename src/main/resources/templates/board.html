@@ -28,12 +28,12 @@
         </div>
 
         <div class="commentBox">
-            <li class="font" th:each="comment : ${comments}" th:text="${comment.content}">
+            <li class="font" th:each="comment : ${comments}"  th:text="${comment.content}">
                 comment
             </li>
         </div>
 
-        <form th:action="@{/button}" method="get">
+        <form th:action="@{/home}" method="get">
             <button class="return" type="submit"> HOME </button>
         </form>
 

@@ -15,19 +15,21 @@ public class BoardController {
         this.boardService = boardService;
     }
 
+
     @GetMapping("/board")
     public String boardPage(Model model) {
-        model.addAttribute("comments", boardService.get5Comments());
+        model.addAttribute("comments", boardService.get10Comments());
         return "board";
     }
 
+
    @GetMapping("/save")
-    public String saveComment( @RequestParam("content") String content) {
+    public String saveComment( @RequestParam String content) {
         boardService.saveComment(content);
         return "redirect:/board";
     }
 
-    @GetMapping("/button")
+    @GetMapping("/home")
     public String returnButton() {
         return "button";
     }
