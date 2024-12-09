@@ -31,7 +31,12 @@
 + 브랜치 Comment에 코드가 등록되어있습니다.
 + 해당 블로그 위치 : https://post-this.tistory.com/39
 </br></br>
-<img width="500" alt="스크린샷 2024-12-08 오후 10 09 26" src="https://github.com/user-attachments/assets/08357f04-e8f6-40c0-91c1-0647879970b5">
+
+<img width="550" alt="스크린샷 2024-12-09 오후 9 48 10" src="https://github.com/user-attachments/assets/83696619-2346-43fd-b9fb-84cce0bb94d6">
+
+
+
+
 
 
 
