@@ -34,6 +34,15 @@
 
 <img width="550" alt="스크린샷 2024-12-09 오후 9 48 10" src="https://github.com/user-attachments/assets/83696619-2346-43fd-b9fb-84cce0bb94d6">
 
+****
+
+#### 4. 로또 숫자 복사하기.
++ JavaScript를 이용하여 복사하기를 만들었습니다.
++ 복사를 할 경우 [럭키 로또 숫자 복사 완료!] 문구가 출력됩니다.
++ 해당 블로그 위치 : 
+</br></br>
+
+<img width="550" alt="스크린샷 2024-12-12 오후 8 41 47" src="https://github.com/user-attachments/assets/652513c1-8737-49f6-89d4-0f82a6f5fcd6" />
 
 
 
