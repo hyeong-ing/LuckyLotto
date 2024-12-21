@@ -2,6 +2,7 @@
 # 🍀  LuckyLotto  🍀
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F0F780&multiline=true&repeat=false&width=435&lines=%EB%9E%9C%EB%8D%A4+%EC%88%AB%EC%9E%90+6%EA%B0%9C%EA%B0%80+%EC%B6%9C%EB%A0%A5%EB%90%98%EB%8A%94+%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8+" alt="Typing SVG" /></a>
+  
 
 ****
 
@@ -50,8 +51,11 @@
 #### 5. 마무리
 + 최종으로 댓글을 다는 기능과 복사기능이 추가된 랜덤 숫자 출력 사이트를 만들었다.
 + 초반에 구상했던 이미지는 버튼을 누르면 랜덤숫자가 출력되고, 복사기능만 있도록 구상했다.
+  </br></br>
 <img width="550" alt="초기구상" src="https://github.com/user-attachments/assets/7aa22e00-3271-4f3d-9684-cb2210eeca8f" />
-
+</br></br>
++ 영상 : 
+  https://github.com/user-attachments/assets/b95cd4fe-86f5-416c-a3a8-9f182abe051b
 
 
 
