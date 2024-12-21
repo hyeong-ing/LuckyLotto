@@ -39,10 +39,18 @@
 #### 4. 로또 숫자 복사하기.
 + JavaScript를 이용하여 복사하기를 만들었습니다.
 + 복사를 할 경우 [럭키 로또 숫자 복사 완료!] 문구가 출력됩니다.
-+ 해당 블로그 위치 : 
++ 해당 블로그 위치 : https://post-this.tistory.com/40
 </br></br>
 
 <img width="550" alt="스크린샷 2024-12-12 오후 8 41 47" src="https://github.com/user-attachments/assets/652513c1-8737-49f6-89d4-0f82a6f5fcd6" />
+
+
+****
+
+#### 5. 마무리
++ 최종으로 댓글을 다는 기능과 복사기능이 추가된 랜덤 숫자 출력 사이트를 만들었다.
++ 초반에 구상했던 이미지는 버튼을 누르면 랜덤숫자가 출력되고, 복사기능만 있도록 구상했다.
+<img width="550" alt="초기구상" src="https://github.com/user-attachments/assets/7aa22e00-3271-4f3d-9684-cb2210eeca8f" />
 
 
 
